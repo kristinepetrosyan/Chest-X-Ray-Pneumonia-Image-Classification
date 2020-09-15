@@ -54,11 +54,11 @@ As the models got complicated, it is observed accuracy, sensitivity and specific
 
 It is observed that accuracy and recall scores for minority models increased as the models got complicated.
 
-<img src=>
+<img src="https://github.com/kristinepetrosyan/Mod4project/blob/master/Comparison.png">
 
 Among all the trained models, initially the best resulted obtained from CNN model. 
 
-<img src="">
+
 
 
 The model predicted;
@@ -68,11 +68,11 @@ The model predicted;
 - 384 True negatives,
 - 6 False negatives.
 
-<img src="">
+<img src="https://github.com/kristinepetrosyan/Mod4project/blob/master/CNN_matrix.png">
 
 The CNN model by performing 98% recall score for Specificity partially achieved the set threshold. However, it is still underperforming in terms of Sensitivity threshold.
 
-<img src="">
+<img src="https://github.com/kristinepetrosyan/Mod4project/blob/master/CNN1.png">
 
 
 ### Recommendations
