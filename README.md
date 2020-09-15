@@ -1,4 +1,4 @@
-## Module 4 Final Project
+## X-Ray Image Classification with Deep Learning
 
 
 ## Table of Contents
